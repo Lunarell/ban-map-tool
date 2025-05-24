@@ -106,3 +106,4 @@ if not data.empty:
     st.bar_chart(attacker_all.value_counts())
     st.write("**Verteidiger Bans:**")
     st.bar_chart(defender_all.value_counts())
+delet

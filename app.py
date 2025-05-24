@@ -21,7 +21,7 @@ with col2:
 match_format = st.selectbox("Match Format", ["Bo1", "Bo3", "Bo5"])
 
 # --- Maps & Map-Bans ---
-map_pool = ["Bank", "Border", "Chalet", "Clubhouse", "Consulate", "Kafe", "Nighthaven", "Oregon", "Skyscraper"]
+map_pool = ["Bank", "Border", "Chalet", "Clubhouse", "Consulate", "Kafe", "Nighthaven", "Lair", "Skyscraper"]
 
 st.markdown("### 🗺️ Map-Bans")
 ban_table = []
